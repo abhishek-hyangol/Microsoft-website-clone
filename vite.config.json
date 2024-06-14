@@ -1,0 +1,8 @@
+// vite.config.js
+export default {
+    base: '/your-repo-name/', // adjust this if your app is not hosted at the root
+    plugins: [
+      // your plugins here
+    ]
+  }
+  
